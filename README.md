@@ -26,6 +26,7 @@ Inspired by Git.
 ./nora capture   # Create a new snapshot
 ./nora recall    # View previous snapshots
 ./nora status    # Check current story status
+./nora diff      # Check for line changes between file in folder and prepared file. (Myers algorithm)
 ```
 
 ## Get started
